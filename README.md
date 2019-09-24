@@ -1,4 +1,4 @@
-# tokens
+# TronWallet Tokens
 
 - 1 Fork the Repo
 - 2 Add 250x250 pixels png image of your token (your token id should be used as name.)
