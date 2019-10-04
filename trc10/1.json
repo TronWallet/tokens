@@ -1,6 +1,7 @@
 {
 	"token": "TRX",
 	"decimals": "6",
+	"owner": "",
 	"description": "TRON is an open source platform launched in 2017 for the decentralized global distribution of content and entertainment in addition to the deployment of smart contracts. Their white paper was released ahead of their August 2017 ICO on the Ethereum blockchain. Featuring a high TPS (Transactions per second), the network enables creators to publish, store and retain ownership of their content, allowing content creators to be directly rewarded by content consumers via the native coin (TRX) and other crypto-currencies. Using a network decentralized (peer to peer) file storage systems, the Sun network allows content to be placed on the blockchain without the requirement of content publishing middlemen (publishing platforms). The types of entertainment content can range from the familiar forms of music and video through to the newer forms of decentralized applications (dApps) such as online gaming and gambling.",
 	"utility": "The native coin (TRX) can be used by content consumers to pay creators for in-game assets, or use as currency in gaming or to reward creators directly for their entertainment content or to purchase additional access. In turn, the coin can be used by content creators to pay for various services on the network. Freezing (staking) TRX tokens results in energy and bandwidth required to interact smoothly with the network as well as the increase in voting power of voting for Super Representatives.",
 	"max_supply": "99,216,872,181",
