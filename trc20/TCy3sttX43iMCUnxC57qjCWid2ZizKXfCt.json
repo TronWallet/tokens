@@ -1,0 +1,36 @@
+{
+	"token": "Muse",
+	"decimals" : "6",
+	"owner" : "TT6rsLq7STfgfZGoQu9HerciYBLJEMo2uX",
+	"description": "Muse Protocol is a decentralized social streaming platform that favors artists and creatives while rewarding participants for engagement and consumption.",
+	"utility": "The native token (MUSE) can be used across all platforms in the Muse Ecosystem to pay for services, subscriptions, and to participate in artist organized events globally. Muse Token is the utility token designed to handle all aspects of using, enjoying, and becoming a part of the Muse Ecosystem. Holders can purchase songs to stream, join Muse Premium, host community bounties, take part in artist token offerings, and much much more! Muse Token holders also become Master Delegates once they attain 1,000 MUSE, given them the opportunity to earn Muse Dollar from daily staking rewards. ",
+	"max_supply": "1,000,000,000",
+	"circulating_supply": "",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://www.museprotocol.com/",
+	"whitepaper": "https://www.museprotocol.com/whitepaper.pdf",  
+	"issue_date": "2019-08-10",
+	"issue_price": "0.3100",
+	"explorer1": "https://tronscan.org/#/token20/TCy3sttX43iMCUnxC57qjCWid2ZizKXfCt",
+	"explorer2": "https://www.trxplorer.io/token/TCy3sttX43iMCUnxC57qjCWid2ZizKXfCt",
+	"github": "",
+	"reddit": "",
+	"twitter": "https://twitter.com/MuseProtocol",
+	"facebook": "",
+	"telegram": "https://t.me/MuseProtocol",
+	"instagram": "",
+	"medium": "https://medium.com/@MuseProtocol/",
+	"youtube": "",
+	"linkedin": "https://www.linkedin.com/company/museincorporated/",
+	"top_6_features": [
+		      "Transparent, Immutable ledger for digital royalties collection and disbursement",
+		      "Inbuilt masternode staking system created in contract",
+		      "Decentralized social streaming platform utilizing the Muse Token as it's main utility",
+		      "Viral Streaming Ecosystem that rewards listeners for engagement, while favoring creatives",
+		      "In-built token burning written into the smart contract for limited pricing support",
+		      "Automatic quarterly gas distribution for Master Delegate holders and stakers",
+	]
+}
+
+//Blank fields are yet not registered in tronscan
