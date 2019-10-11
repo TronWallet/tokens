@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "jsonlint": "^1.6.3"
+  },
+  "scripts": {
+    "lint": "find ./trc10 -name \"*.json\" -exec echo {}; -exec jsonlint {} -q;"
+  }
+}
