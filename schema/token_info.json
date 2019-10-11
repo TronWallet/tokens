@@ -1,0 +1,102 @@
+{
+	"description": "TronWallet Token Info Schema",
+	"schema": {
+		"$schema": "http://json-schema.org/draft-07/schema#",
+		"type": "object",
+		"properties": {
+			"token": {
+				"type": "string"
+			},				
+			"decimals": {
+				"type": "string"
+			},				
+			"owner_address": {
+				"type": "string"
+			},				
+			"description": {
+				"type": "string"
+			},				
+			"utility": {
+				"type": "string"
+			},				
+			"max_supply": {
+				"type": "string"
+			},				
+			"circulating_supply": {
+				"type": "string"
+			},			
+			"circulating_url": {
+				"type": "string",
+				"format": "uri"
+			},	
+			"consensus": {
+				"type": "string"
+			},	
+			"website": {
+				"type": "string",
+				"format": "uri"
+			},	
+			"whitepaper": {
+				"type": "string",
+				"format": "uri"
+			},			
+			"issue_date": {
+				"type": "string"
+			},	
+			"issue_price": {
+				"type": "string"
+			},																								
+
+			"explorer1": {
+				"type": "string",
+				"format": "uri"
+			},
+			"explorer2": {
+				"type": "string",
+				"format": "uri"
+			},								
+			"github": {
+				"type": "string",
+				"format": "uri"
+			},
+			"reddit": {
+				"type": "string",
+				"format": "uri"
+			},
+			"twitter": {
+				"type": "string",
+				"format": "uri"
+			},
+			"facebook": {
+				"type": "string",
+				"format": "uri"
+			},
+			"telegram": {
+				"type": "string",
+				"format": "uri"
+			},
+			"instagram": {
+				"type": "string",
+				"format": "uri"
+			},
+			"medium": {
+				"type": "string",
+				"format": "uri"
+			},
+			"youtube": {
+				"type": "string",
+				"format": "uri"
+			},
+			"linkedin": {
+				"type": "string",
+				"format": "uri"
+			},
+			"top_6_features": {
+				"type": "array",
+				"minItems": 1,
+				"items": { "type": "string" },
+				"uniqueItems": true
+			}																															
+		}
+	}
+}
