@@ -33,5 +33,3 @@
 		"Extra security steps to make sure tx.origin is not used as mode of authenticity"
 	]
 }
-
-//Blank fields are yet not registered in tronscan
