@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@prantlf/jsonlint": "^8.0.3",
+    "ajv": "^6.10.2",
+    "ajv-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "yarn eval",
+    "eval": "yarn evalChain && yarn evalDapps && yarn evalTRC10 && yarn evalTRC20 && yarn evalERC20",
+    "lint": "yarn lintChain && yarn lintTRC20 && yarn lintTRC20 && yarn lintDapps && yarn lintERC20",
+    "evalChain": "ajv -s schema/token_info.json -d './chain/*.json'",
+    "evalDapps": "ajv -s schema/token_info.json -d './dapps/*.json'",
+    "evalTRC10": "ajv -s schema/token_info.json -d './trc10/*.json'",
+    "evalTRC20": "ajv -s schema/token_info.json -d './trc20/*.json'",
+    "evalERC20": "ajv -s schema/token_info.json -d './erc10/*.json'",
+    "lintChain": "jsonlint -q chain/*.json",
+    "lintTRC10": "jsonlint -q trc10/*.json",
+    "lintTRC20": "jsonlint -q trc20/*.json",
+    "lintDapps": "jsonlint -q dapps/*.json",
+    "lintERC20": "jsonlint -q erc20/*.json"
+  }
+}
