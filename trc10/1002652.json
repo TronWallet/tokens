@@ -1,0 +1,21 @@
+{
+	"token": "eIDR",
+	"decimals": "2",
+	"owner": "",
+	"description": "Token Rupiah Elektronik yang dijamin nilainya 1:1 dengan saldo penjamin yang diendapkan di rekening PT LUMBUNG MOMENTUM BANGSA. Diaudit secara berkala oleh akuntan publik.",
+	"max_supply": "99,000,000,000,000.00",
+	"circulating_supply": "3,220,000.00",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://lumbung.network",
+	"whitepaper": "https://lumbung.network/eidr-token-rupiah-elektronik/",
+	"issue_date": "2019-09-23",
+	"issue_price": "1",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "https://github.com/rmnscnc/lumbungnetwork",
+	"twitter": "https://twitter.com/lumbungnetwork",
+	"telegram": "https://t.me/lumbungnetwork",
+	"youtube": "https://www.youtube.com/channel/UCG8PJWqvFq7naqhmjj75eqA",
+
+}

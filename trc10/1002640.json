@@ -1,0 +1,21 @@
+{
+	"token": "LMB",
+	"decimals": "6",
+	"owner": "",
+	"description": "LMB adalah representasi dari network value Lumbung Network. Setiap bulannya, LMB holders akan menerima dividen dari membership revenue dan 1% total omset nasional.",
+	"max_supply": "99,000,000.000000",
+	"circulating_supply": "5,030",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://lumbung.network",
+	"whitepaper": "https://lumbung.network/about/",
+	"issue_date": "2019-09-15",
+	"issue_price": "1",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "https://github.com/rmnscnc/lumbungnetwork",
+	"twitter": "https://twitter.com/lumbungnetwork",
+	"telegram": "https://t.me/lumbungnetwork",
+	"youtube": "https://www.youtube.com/channel/UCG8PJWqvFq7naqhmjj75eqA",
+
+}
