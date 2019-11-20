@@ -1,0 +1,33 @@
+{
+	"token": "TronSecureHybrid",
+	"decimals": "2",
+	"owner": "",
+	"description": "TSCHYBRID is the Hybrid Crypto exchange which will solve the liquidity problem of trx tokens by making them tradable with BTC, ETH, TRX,TSC & USDT. Fees are lowered by using its native token TSCHYBRID.TronSecureHybrid is the new TRC20 Token of TronSecure TSC.",
+	"max_supply": "499,700,000.00",
+	"circulating_supply": "11,882,979",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://tronsecure.io",
+	"whitepaper": "https://tronsecure.io/whitepaper.pdf",
+	"issue_date": "2018-11-29",
+	"issue_price": "2",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "https://github.com/TronSecure",
+	"reddit": "https://www.reddit.com/r/TronSecure",
+	"twitter": "https://twitter.com/Tronfoundation",
+	"facebook": "https://www.facebook.com/TronSecureHybrid",
+	"telegram": "https://t.me/tronsecure",
+	"instagram": "https://www.instagram.com/tronsecure",
+	"medium": "https://medium.com/@TronSecure",
+	"youtube": "https://www.youtube.com/channel/UCJuIzkk3JHLLfz8ti3EWyZA",
+	"linkedin": "NA",
+	"top_6_features": [
+		"Average blocktime of 3 seconds",
+		"Total supply of 1 Billion TRX",
+		"Consensus via Delegate Proof of Stake (Fast Paxos)",
+		"High bandwidth, averaging 2000 Transactions per Second",
+		"Limited TRX price control via centralized burn or minting",
+		"Scalability design from inception."
+	]
+}
