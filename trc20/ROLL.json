@@ -1,0 +1,28 @@
+{
+	"token": "ROLL",
+	"decimals": "2",
+	"owner": "David Bennett (d.bennett3@hotmail.com)",
+	"description": "Roll is the coin of TronRoll. TronRoll is a self sustaining ROI platform which makes no garauntees of ROI but still aims to provide one.",
+	"utility": "The native coin (ROLL) can be used by content consumers to stake on the website for dividends out of the house profits.
+	"max_supply": "250,000,000",
+	"circulating_supply": "3,700,000",
+	"circulating_url": "https://tronscan.org/#/token20/TNhwULB4yi5D5ivfiwvnvhFDwwEvwVJF2i/holders (top 2 holders = house and presale due for 95% lockup for mining)",
+	"consensus": "DPOS",
+	"website": "https://tronroll.com",
+	"whitepaper": "https://tronroll.com/WhitePaper.pdf",
+	"issue_date": "2019-10-16",
+	"issue_price": "0.2 TRX",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"twitter": "https://twitter.com/TronRoll",
+	"telegram": "https://t.me/tronroll",
+	"medium": "https://medium.com/@TronPay",
+	"top_6_features": [
+		"Sustainability mechanism",
+		"No promise of any fixed ROI",
+		"Other safety features",
+		"Consensus via Delegate Proof of Stake (Fast Paxos)",
+		"High bandwidth, averaging 2000 Transactions per Second",
+		"On site mining",
+	]
+}
