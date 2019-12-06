@@ -1,0 +1,33 @@
+{
+	"token": "TGOLDe",
+	"decimals": "6",
+	"owner": "TBnFxASBwdbZCUVGRzufxTe77998Wr2Ngn",
+	"description": "TGOLDe stands for Tron Gold Energy. Similar as BTC using real electric power for mining,️ TGOLDe use TRON Energy for mining. In Physics, Power = Energy / Time. On Tron, TGOLDe is mined using Energy per transaction. Thus, TGOLDe = POWER；which means TGOLDe users mine TGOLDe tokens by using tron transaction energy.",
+	"max_supply": "100,000,000,000",
+	"circulating_supply": "1,546,240,420",
+	"circulating_url": "",
+	"consensus": "POE",
+	"website": "https://tgolde.com/",
+	"whitepaper": "https://tgolde.com/static/media/whitepaperen.60bc165a.pdf",
+	"issue_date": "2019-11-22",
+	"issue_price": "0",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "",
+	"reddit": "",
+	"twitter": "",
+	"facebook": "",
+	"telegram": "https://t.me/TronGoldEnergy",
+	"instagram": "",
+	"medium": "",
+	"youtube": "",
+	"linkedin": "",
+	"top_6_features": [
+		"7500 tokens minted per block",
+		"Total supply of 100 billion TGOLDe",
+		"Consensus via Proof of Energy",
+		"Mint Rate reduce by half every 90 days",
+		"Multiple usage of token",
+		"Scalability design from inception."
+	]
+}
