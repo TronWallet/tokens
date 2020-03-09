@@ -1,0 +1,27 @@
+{
+	"token": "HOLOYOLO",
+	"decimals": "0",
+	"owner": "TBSepr2c4KSU9BjoX94adM167LYTKUvtZD",
+	"description": "A Reward token for decentralized apps",
+	"max_supply": "5,000,000,000",
+	"circulating_supply": "97,871,556",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://alien.town",
+	"whitepaper": "",
+	"issue_date": "2018-07-12",
+	"issue_price": "1",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "https://github.com/alientown",
+	"twitter": "https://twitter.com/AlienTownApps",
+	"linkedin": "NA",
+	"top_6_features": [
+		"Average blocktime of 3 seconds",
+		"Total supply of 5 Billion TRX",
+		"Consensus via Delegate Proof of Stake (Fast Paxos)",
+		"High bandwidth, averaging 2000 Transactions per Second",
+		"Limited TRX price control via centralized burn or minting",
+		""
+	]
+}
