@@ -1,6 +1,6 @@
 {
 	"token": "PYRO",
-	"decimals": "18",
+	"decimals": "6",
 	"owner": "",
 	"description": "PYRO is a TRC20 token designed with a hyper deflationary life model and staking functionalities. The core concept revolves around the in-built burning function of PYRO tokens upon any transaction that transfers PYRO from one TRON address to another at a rate of 5% while 2.5% of all burned PYRO proportionally rewarding those who have staked their tokens. A social network, privacy messenger and other projects will utilize PYRO.",
 	"utility": "PYRO can be used by content creators and publishers, dapp currency assets, or use as currency in gaming or to reward creators directly for their entertainment content or to purchase additional access. Freezing (staking) PYRO allows users to earn 2.5% in passive rewards proportionate to their staked amount.",
