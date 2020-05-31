@@ -24,11 +24,11 @@
 	"youtube": "https://www.youtube.com/channel/UCRNVcOilBy3UcWdJdX19K9w",
 	"linkedin": "https://www.linkedin.com/company/oikos-cash",
 	"top_6_features": [
-    "Contribute by adding or removing liquidity to gain commissions in the form of exchange fees as well as rewards paid in OKS token",
-    "Price data is obtained via multiple trusted sources and aggregated to create a robust price oracle mechanism",
-    "Developer tools make it easy to create applications leveraging Oikos services",
-    "Liquidity-sensitive automated pricing using constant product formula",
-    "Trade over 30 different Synths from various categories",
-    "Trade TRX for any TRC20 without wrapping",
-    ]
+		"Contribute by adding or removing liquidity to gain commissions in the form of exchange fees as well as rewards paid in OKS token",
+		"Price data is obtained via multiple trusted sources and aggregated to create a robust price oracle mechanism",
+		"Developer tools make it easy to create applications leveraging Oikos services",
+		"Liquidity-sensitive automated pricing using constant product formula",
+		"Trade over 30 different Synths from various categories",
+		"Trade TRX for any TRC20 without wrapping",
+	]
 }
