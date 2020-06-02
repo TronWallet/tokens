@@ -1,0 +1,29 @@
+{
+	"token": "GFNCASH",
+	"decimals": "8",
+	"owner": "THPWMNosSTAt5xXsMqxJa9Qi2yEUAqKQAQ",
+	"description": "GrafenoCash, Payment Token Holders of GrafenoCoin",
+	"max_supply": "100.000.000.000.000.000.000.000.000.000.000",
+	"circulating_supply": "100.000.000.000.000.000.000.000.000.000.000",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://grafenocoin.com",
+	"whitepaper": "",
+	"issue_date": "2020-05-24",
+	"issue_price": "0.001500",
+	"explorer1": "https://tronscan.org",
+	"explorer2": "https://trxplorer.io",
+	"github": "https://github.com/grafenocash",
+	"reddit": "",
+	"twitter": "https://twitter.com/grafenocoin",
+	"facebook": "",
+	"telegram": "https://t.me/grafenogfncash",
+	"instagram": "",
+	"medium": "",
+	"youtube": "",
+	"linkedin": "https://www.linkedin.com/in/grafenocoin/",
+	"top_6_features": [
+		"Average blocktime of 3 seconds",
+		
+	]
+}
