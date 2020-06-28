@@ -1,0 +1,31 @@
+{
+	"token": "TRN",
+	"decimals": "6",
+	"owner": "TRxbrEbFALRy3WtZppArTnfYuMevFnESKw",
+	"description": "TronNodes is an ambitious project dedicated to the establishment of a truly  decentralized Internet and its infrastructure. The TRON Protocol, one of  the largest blockchain based operating systems in the world, offers  base public blockchain support of high throughput, high scalability, and  high availability for all decentralized applications in the under TRON ecosystem.",
+	"utility": "TronNodes is a cryptocurrency designed for people and for everyday use. It improves upon the original Bitcoin blockchain and aims to fulfill its initial purpose of providing individuals and businesses with a fast, efficient and decentralized way of making direct transactions.",
+	"max_supply": "1,010,101,010",
+	"circulating_supply": "909,090,909‬",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://tronnodes.com/",
+	"whitepaper": "https://drive.google.com/file/d/129CGUFgBu2oeQG3egiF_OVSfn9IDU9l9/view",
+	"issue_date": "2020-05-19 20:48:10 (UTC)",
+	"issue_price": "0.003200",
+	"explorer1": "https://tronscan.org/#/token20/TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy",
+	"explorer2": "https://trxplorer.io/contract/TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy",
+	"github": "https://github.com/TronNodes",
+	"twitter": "https://twitter.com/NodesTron?s=09",
+	"facebook": "https://www.facebook.com/tron.nodes.1",
+	"telegram": "https://t.me/tronnodes",
+	"instagram": "https://www.instagram.com/tronnodes/",
+	"youtube": "https://youtu.be/HYPcE6tmgN8",
+	"top_6_features": [
+		"Average blocktime of 3 seconds",
+		"Total supply of 100 billion TRX",
+		"Consensus via Delegate Proof of Stake (Fast Paxos)",
+		"High bandwidth, averaging 2000 Transactions per Second",
+		"Limited TRX price control via centralized burn or minting",
+		"Scalability design from inception."
+	]
+}
