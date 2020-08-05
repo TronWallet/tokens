@@ -1,0 +1,18 @@
+{
+	"token": "1003127",
+	"decimals": "0",
+	"owner": "Promille",
+	"description": "A token to provide loyalty rewards on behalf of Pi holders. Pi is a project by Promille. Visit https://thecryptouniverse.com/pi-token/ to learn more.",
+	"max_supply": "161,803",
+	"circulating_supply": "4,762",
+	"circulating_url": "",
+	"website": "https://thecryptouniverse.com",
+	"whitepaper": "https://thecryptouniverse.com/whitepaper/",
+	"issue_date": "2020-07-30",
+	"issue_price": "1",
+	"explorer1": "https://tronscan.org",
+	"top_6_features": [
+		"Deflatioary Model",
+		"Loyalty Rewards",
+	]
+}
