@@ -1,0 +1,13 @@
+{
+	"token": "VRS",
+	"decimals": "6",
+	"owner": "TBetBfggzAFN4ABmRSJsYgZixMv1LdwQcx",
+	"description": "Privately used token to share rewards with referrals",
+	"utility": "50% of the TRX I earn from my referrals gets staked and an equivalent amount of VRS is transferred to them, so HODLing VRS tokens will earn you part of my staking rewards (even if you are not my referral, but you just happen to own some)!",
+	"max_supply": "",
+	"circulating_supply": "250",
+	"circulating_url": "",
+	"website": "https://www.vignati.eu/vrstoken",
+	"whitepaper": "",
+	"issue_date": "2020-08-21"
+}
