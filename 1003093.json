@@ -1,0 +1,19 @@
+{
+	"token": "TSV",
+	"decimals": "6",
+	"owner": "TY6yHGZinSNnGQaUkGQWP7NKCEZ9TjNV2F",
+	"description": "TronSV is a stakable e-commerce utility token and a TRC10 asset to reward it's holders . TronSV is base token to the TronSV ecosystem which contains Staking Wallet , feeless exchange , e-commerce website and much more.",
+	"max_supply": "100,000,000,000",
+	"circulating_supply": "40,000,000,000",
+	"circulating_url": "https://tronscan.org/#/token/1003093/holders",
+	"consensus": "POS",
+	"website": "https://tronsv.pro",
+	"whitepaper": "https://drive.google.com/file/d/11LvRwK1gKWpOnpnoZgNoS2C_hSBBZ-1d/view?usp=drivesdk",
+	"issue_date": "2020-07-15",
+	"issue_price": "0.0001",
+	"explorer1": "https://tronscan.org/#/token/1003093",
+	"explorer2": "https://trxplorer.io/token/1003093",
+	"github": "https://github.com/TronSVProject",
+	"twitter": "https://twitter.com/sv_tron",
+	"telegram": "https://t.me/TSV_Community"
+}
