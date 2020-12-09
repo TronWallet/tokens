@@ -1,0 +1,15 @@
+{
+	"token": "VRS",
+	"decimals": "6",
+	"owner": "TBetBfggzAFN4ABmRSJsYgZixMv1LdwQcx",
+	"description": "Token with the objective of sharing rewards with referrals",
+	"utility": "75% of the TRX I earn from my referrals gets staked and an equivalent amount of VRS is transferred to them (the remaining 25% will be used to cover tx fees), so HODLing VRS tokens will earn you part of my staking rewards (even if you are not my referral, but you just happen to own some VRS)!",
+	"max_supply": "",
+	"circulating_supply": "250",
+	"circulating_url": "",
+	"website": "https://www.vignati.eu/vrstoken",
+	"whitepaper": "https://venngage.net/ps/fpEVCjhpXvE/vrs-token-whitepaper",
+	"issue_date": "2020-08-21",
+	"telegram": "https://t.me/vrstoken",
+	"instagram": "https://www.instagram.com/vrs_token"
+}
