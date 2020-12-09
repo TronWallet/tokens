@@ -1,0 +1,32 @@
+{
+	"token": "UTX",
+	"decimals": "6",
+	"owner": "",
+	"description": "UTX is the collateral within the UTRON ecosystem for Yield Farming, Liquidity Mining, Staking, Transaction fees and the DAO Governance.",
+	"utility": "",
+	"max_supply": "200,000,000.00000000",
+	"circulating_supply": "200,000,000.00000000",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://utron.io",
+	"whitepaper": "https://utron.io/whitepaper.pdf",
+	"issue_date": "2020-10-12",
+	"issue_price": "0.1",
+	"explorer1": "https://tronscan.org/#/token20/TRNDSavQSNGCFaYBFQe5WtcgcyMDuSMSji",
+	"explorer2": "https://www.trxplorer.io/token/TRNDSavQSNGCFaYBFQe5WtcgcyMDuSMSji",
+	"github": "https://github.com/UtronHub",
+	"reddit": "",
+	"twitter": "https://twitter.com/utron.io",
+	"facebook": "",
+	"telegram": "https://t.me/utron.io",
+	"instagram": "",
+	"medium": "",
+	"youtube": "",
+	"linkedin": "",
+	"top_6_features": [
+	    "Total supply of 200 million",
+	    "Consensus via Delegate Proof of Stake (Fast Paxos)",
+	    "Can be staked to earn staking rewards",
+	    "Scalability design from inception."
+	]
+}
