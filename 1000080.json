@@ -1,0 +1,18 @@
+{
+	"token": "CITYUPTAKE",
+	"decimals": "0",
+	"owner": "TUsTUrKVE1QL5ZNM4rCZ7Ld9G3vGxtbHCK",
+	"description": "CITYUPTAKE your Super Representative ETF (Receive TRX rewards stress free! CITYUPTAKE researches SR's to maximize your return!",
+	"max_supply": "100,000,000,000",
+	"circulating_supply": "99,999,962,963",
+	"circulating_url": "https://tronscan.org/#/token/1000080/holders",
+	"website": "https://cityuptake.com",
+	"whitepaper": "https://cityuptake.com/whitepaper/",
+	"issue_date": "2018-07-13 ",
+	"issue_price": "-",
+	"explorer1": "https://tronscan.org",
+	"top_2_features": [
+		"Consistent Rewards",
+		"Reward Tracking",
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"token": "CITY",
+	"decimals": "0",
+	"owner": "TQ5qpcvtruNdYwokc3JHGb6dzuYMbam485",
+	"description": "Early Adopter Reward",
+	"max_supply": "100,000,000,000",
+	"circulating_supply": "100,000,000,000",
+	"circulating_url": "https://tronscan.org/#/token/1001042/holders",
+	"website": "https://cityuptake.com",
+	"whitepaper": "https://cityuptake.com/whitepaper/",
+	"issue_date": "2018-10-05",
+	"issue_price": "-",
+	"explorer1": "https://tronscan.org",
+}
