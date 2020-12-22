@@ -1,0 +1,28 @@
+{
+	"token": "PABLOOPay",
+	"decimals" : "8",
+	"owner" : "TXijf52b72dRh8zNmgt3pP6VSNLtvX6ntD",
+	"description": "PABLOOPay decentralized payment for crypto community",
+	"utility": "PABLOOPay decentralized payment for crypto community",
+	"max_supply": "3,300",
+	"circulating_supply": "1,845",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://pabloopay.com",
+	"whitepaper": "https://drive.google.com/file/d/1hwInESlZT4wZQ6XxubQ1psHXje5fiy8l/view?usp=sharing",  
+	"issue_date": "2020-12-12",
+	"issue_price": "55",
+	"explorer1": "https://tronscan.io/#/token20/TVFKCnUqXL1P9cfd7aGyriMhXSFwkXc2Vv",
+	"explorer2": "https://www.trxplorer.io/token/TVFKCnUqXL1P9cfd7aGyriMhXSFwkXc2Vv",
+	"github": "https://github.com/PABLOOPayTRC20",
+	"reddit": "",
+	"twitter": "https://mobile.twitter.com/PablooPay",
+	"facebook": "",
+	"telegram": "https://t.me/PABLOOpay_official",
+	"instagram": "",
+	"medium": "",
+	"youtube": "",
+	"linkedin": "",
+	"top_6_features": [
+		]
+}
