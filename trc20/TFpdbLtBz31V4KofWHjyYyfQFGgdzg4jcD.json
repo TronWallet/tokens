@@ -1,0 +1,28 @@
+{
+	"token": "TilapiaToken",
+	"decimals" : "5",
+	"owner" : "TTwjGKWdc7Q7EoBSRtqUYC8haj1J2KZfiL",
+	"description": "TilapiaToken decentralized payment for casino & crypto community",
+	"utility": "TilapiaToken decentralized payment for casino & crypto community",
+	"max_supply": "500000000",
+	"circulating_supply": "5310",
+	"circulating_url": "",
+	"consensus": "DPOS",
+	"website": "https://tilapiatoken.com",
+	"whitepaper": "https://tilapiatoken.com/whitepaper_en.pdf",  
+	"issue_date": "2020-12-31",
+	"issue_price": "1",
+	"explorer1": "https://tronscan.io/#/token20/TFpdbLtBz31V4KofWHjyYyfQFGgdzg4jcD",
+	"explorer2": "https://trx.tokenview.com/en/address/TFpdbLtBz31V4KofWHjyYyfQFGgdzg4jcD",
+	"github": "https://github.com/tilapiatoken",
+	"reddit": "",
+	"twitter": "https://twitter.com/tilapianetwork",
+	"facebook": "",
+	"telegram": "https://t.me/joinchat/GmP2iUqoi_94PHWj",
+	"instagram": "https://twitter.com/tilapianetwork",
+	"medium": "",
+	"youtube": "",
+	"linkedin": "",
+	"top_6_features": [
+		]
+}
